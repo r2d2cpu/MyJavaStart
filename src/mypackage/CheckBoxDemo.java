@@ -1,5 +1,5 @@
 package mypackage;
-
+//changed from github Page
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
